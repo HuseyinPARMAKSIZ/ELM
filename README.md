@@ -1,1 +1,1 @@
-# ELM
+# Extreme Learning Machines (ELM)
