@@ -2,7 +2,7 @@ All codes are in the testing phase yet!!!
 
 
 %% Original  Authors:    MR QIN-YU ZHU AND DR GUANG-BIN HUANG - NANYANG TECHNOLOGICAL UNIVERSITY, SINGAPORE %%
-%% Edited by me last quarter of 2022 (ELM for Radio Frequency Fingerprint Classification Problems.)
+%% Improved and edited by me last quarter of 2022 (ELM for Radio Frequency Fingerprint Classification Problems.)
 
 clear all; close all; clc; warning off
 %------------------Loading datasets ----------------% 
