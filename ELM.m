@@ -17,7 +17,7 @@ Nt=size(Xt,2); %testing data size
 Nin=size(X,1);% input neurons size
 Nhn=100; % hidden neurons size
 ActivationFunction='tansig';
-DenSay=5; % iteration size
+DenSay=25; % iteration size
 
 if Elm_Type~=REGRESSION
     %----- Preprocessing the data of classification
